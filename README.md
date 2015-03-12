@@ -1,2 +1,2 @@
 # datasciencecoursera
-repo for courser data science track
+repo for coursera data science track
